@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragExx</string>
+    <string name="first_button_fragment">First Fragment</string>
+    <string name="second_button_fragment">Second Fragment</string>
+    <string name="third_button_fragment">Third Fragment</string>
+    <string name="fourth_button_fragment">Fourth Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
